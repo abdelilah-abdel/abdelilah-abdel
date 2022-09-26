@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelilah-abdel&label=Profile%20views&color=0e75b6&style=flat" alt="abdelilah-abdel" /> </p>
  
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
