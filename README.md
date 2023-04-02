@@ -24,3 +24,13 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelilah-abdel&" alt="abdelilah-abdel" /></p>
+
+
+
+Hey there! I'm Abdelilah, a Software Engineering Student! 👋🏼
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/main/pixel_art.png" alt="Pixel Art">
+</p>
+Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. I love exploring different programming languages and tools, and collaborating with others to build amazing projects.
+
+
